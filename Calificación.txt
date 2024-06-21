@@ -1,0 +1,3 @@
+Calificación: 2.3/3
+Falta documentar la función
+Desde el main hay que llamar al menos 2 veces a cada función
